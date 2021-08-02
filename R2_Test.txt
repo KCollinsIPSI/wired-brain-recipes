@@ -1,0 +1,5 @@
+Opening second file from the command line. Changes made to first line.
+
+Here's a new line.
+
+Another new line.
