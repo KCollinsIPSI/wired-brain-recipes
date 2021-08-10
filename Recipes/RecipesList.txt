@@ -33,3 +33,15 @@ Recipe C:
 	Method:
 		C_Step1
 		C_Step2
+Recipe D (one that's just for the Ideas branch, and should be exempted from the Main branch):
+	Ingredients:
+		D1
+		D2
+	Method:
+		D_Step1
+		D_Step2
+		D_Step3
+		D_Step4
+		D_Step5
+		D_Step6
+		D_Step7
